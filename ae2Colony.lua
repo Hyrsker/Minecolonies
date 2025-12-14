@@ -7,7 +7,7 @@ local scriptVersion = "0.4.1"
 --local requiredAP = advancedperipherals and advancedperipherals.getAPVersion()
 --if not apVersions[requiredAP] then
 --  error("Incompatible Advanced Peripherals version: " .. tostring(requiredAP))
-end
+--end
 
 --[[-------------------------------------------------------------------------------------------------------------------
 author: toastonrye
